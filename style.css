@@ -1,0 +1,61 @@
+/* h1{
+    color:"blue";
+    background-color: aqua;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+button {
+    background-color: orange;
+    color:white;
+}
+.box{
+    height: 100px;
+    width:100px;
+    border: 1px solid black;
+    margin:5px;
+    text-align:center;
+    background-color:aquamarine;
+}
+#box{
+    height: 200px;
+    width:100px;
+    background-color:dodgerblue;
+    color:white;
+    border : 1px solid black;
+}
+.content{
+    color:red;
+}
+.newClass{
+    background-color: greenyellow;
+}
+
+ */
+
+ div{
+    height :100px;
+    width:100px;
+    background-color: dodgerblue;
+    color:white;
+    border:1px solid black;
+ }
+
+ body.light {
+    background-color: white;
+    color: black;
+}
+
+body.dark {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
